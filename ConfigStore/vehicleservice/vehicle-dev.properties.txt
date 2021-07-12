@@ -1,0 +1,2 @@
+spring.message = Hi From vehicle dev
+server.port = 8082

@@ -1,0 +1,2 @@
+spring.message = Hi From Profile prod
+server.port = 8081
